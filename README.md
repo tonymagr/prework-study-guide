@@ -2,7 +2,7 @@
 
 ## Description
 
-- Prework Study Guide is an online location for you as a student of web development in the Berkeley Boot Camp or other Berkeley developer classes can organize your class notes in five main web development languages and disciplines: HTML, Issue documentation in HTML, CSS, Git, and JavaScript.
+- Prework Study Guide is an online location for you as a student of web development in the Berkeley Boot Camp or other Berkeley developer classes can organize your class notes in four main web development languages and disciplines: HTML, CSS, Git, and JavaScript.
 
 - As a new student in web development, I wanted to keep good class notes and be able to easily find and recall them later. I was not aware of a convenient online location to organize my notes; so I sought to develop a website to do so and share with others.
 - Prework Study Guide was developed to facilitate web development learning by collecting one's class notes in one central location.
@@ -14,7 +14,7 @@ N/A
 
 ## Usage
 
-- As of today June 2023, the Prework Study Guide homepage is organized as four sections which are web development topics: HTML & Issue documentation in HTML (both combined into one HTML topic), CSS, JavaScript, and Git. 
+- As of today June 2023, the Prework Study Guide homepage is organized as four sections which are web development topics: HTML, CSS, JavaScript, and Git. 
 - Collected class notes are displayed by topic, but there are no user screen controls or edit capability at this time. The other output of Prework Study Guide is the DevTools console, developed in JavaScript. It lists the topics we learned from prework and randomly chooses one topic for us to study first. If you don't like the first topic, refresh the console and you will see the next alternative.
 
 ## Credits
